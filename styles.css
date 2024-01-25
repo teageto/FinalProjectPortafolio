@@ -1,0 +1,12 @@
+.nav-link:hover {
+    text-decoration: underline;
+}
+
+.navbar {
+    margin-bottom: 150px;
+}
+
+#profilePic {
+    width: 23vh;
+    align-items: center;
+}
