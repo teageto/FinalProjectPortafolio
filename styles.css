@@ -10,3 +10,39 @@
     width: 23vh;
     align-items: center;
 }
+
+#aboutMe {
+    margin-bottom: 150px;
+}
+
+#skills {
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+
+#projectDetails {
+    margin-bottom: 150px;
+    margin-top: 150px;
+}
+
+.titleProject {
+    margin-bottom: 50px;
+}
+
+#recommendations {
+    margin-bottom: 150px;
+    margin-top: 150px;
+}
+
+.titleRecommendations {
+    margin-bottom: 50px;
+}
+
+#doNewRecommendations {
+    margin-top: 50px;
+    margin-bottom: 250px;
+}
+
+.doNewRecommendationsTitle {
+    margin-bottom: 50px;
+}
